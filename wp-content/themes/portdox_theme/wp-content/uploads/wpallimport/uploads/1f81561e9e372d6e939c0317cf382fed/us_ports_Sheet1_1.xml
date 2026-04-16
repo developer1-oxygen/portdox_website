@@ -1,0 +1,1931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<column_1><![CDATA[1]]></column_1>
+		<column_2><![CDATA[PORTLAND, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2]]></column_1>
+		<column_2><![CDATA[ST. ALBANS, VT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4]]></column_1>
+		<column_2><![CDATA[BOSTON, MA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5]]></column_1>
+		<column_2><![CDATA[PROVIDENCE, RI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[7]]></column_1>
+		<column_2><![CDATA[OGDENSBURG, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[9]]></column_1>
+		<column_2><![CDATA[BUFFALO, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[10]]></column_1>
+		<column_2><![CDATA[NEW YORK CITY, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[11]]></column_1>
+		<column_2><![CDATA[PHILADELPHIA, PA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[13]]></column_1>
+		<column_2><![CDATA[BALTIMORE, MD]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[14]]></column_1>
+		<column_2><![CDATA[NORFOLK, VA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[15]]></column_1>
+		<column_2><![CDATA[CHARLOTTE, NC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[16]]></column_1>
+		<column_2><![CDATA[CHARLESTON, SC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[17]]></column_1>
+		<column_2><![CDATA[SAVANNAH, GA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[18]]></column_1>
+		<column_2><![CDATA[TAMPA, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[19]]></column_1>
+		<column_2><![CDATA[MOBILE, AL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[20]]></column_1>
+		<column_2><![CDATA[NEW ORLEANS, LA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[21]]></column_1>
+		<column_2><![CDATA[PORT ARTHUR, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[23]]></column_1>
+		<column_2><![CDATA[LAREDO, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[24]]></column_1>
+		<column_2><![CDATA[EL PASO, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[25]]></column_1>
+		<column_2><![CDATA[SAN DIEGO, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[26]]></column_1>
+		<column_2><![CDATA[NOGALES, AZ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[27]]></column_1>
+		<column_2><![CDATA[LOS ANGELES, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[28]]></column_1>
+		<column_2><![CDATA[SAN FRANCISCO, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[29]]></column_1>
+		<column_2><![CDATA[COLUMBIA-SNAKE, OR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[30]]></column_1>
+		<column_2><![CDATA[SEATTLE, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[31]]></column_1>
+		<column_2><![CDATA[ANCHORAGE, AK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[32]]></column_1>
+		<column_2><![CDATA[HONOLULU, HI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[33]]></column_1>
+		<column_2><![CDATA[GREAT FALLS, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[34]]></column_1>
+		<column_2><![CDATA[PEMBINA, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[35]]></column_1>
+		<column_2><![CDATA[MINNEAPOLIS, MN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[36]]></column_1>
+		<column_2><![CDATA[DULUTH, MN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[37]]></column_1>
+		<column_2><![CDATA[MILWAUKEE, WI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[38]]></column_1>
+		<column_2><![CDATA[DETROIT, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[39]]></column_1>
+		<column_2><![CDATA[CHICAGO, IL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[41]]></column_1>
+		<column_2><![CDATA[CLEVELAND, OH]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[45]]></column_1>
+		<column_2><![CDATA[ST LOUIS, MO]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[46]]></column_1>
+		<column_2><![CDATA[NEWARK, NJ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[47]]></column_1>
+		<column_2><![CDATA[JAMAICA, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[49]]></column_1>
+		<column_2><![CDATA[SAN JUAN, PR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[51]]></column_1>
+		<column_2><![CDATA[VIRGIN ISLANDS OF THE UNITED STATES]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[52]]></column_1>
+		<column_2><![CDATA[MIAMI, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[53]]></column_1>
+		<column_2><![CDATA[HOUSTON-GALVESTON, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[54]]></column_1>
+		<column_2><![CDATA[WASHINGTON, DC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[55]]></column_1>
+		<column_2><![CDATA[DALLAS/FT. WORTH, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[60]]></column_1>
+		<column_2><![CDATA[VESSELS UNDER THEIR OWN POWER (IMPORTS AND EXPORTS)]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[70]]></column_1>
+		<column_2><![CDATA[LOW-VALUED IMPORTS AND EXPORTS]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[80]]></column_1>
+		<column_2><![CDATA[MAIL SHIPMENTS (EXPORT ONLY)]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[101]]></column_1>
+		<column_2><![CDATA[PORTLAND, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[102]]></column_1>
+		<column_2><![CDATA[BANGOR, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[103]]></column_1>
+		<column_2><![CDATA[EASTPORT, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[104]]></column_1>
+		<column_2><![CDATA[JACKMAN, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[105]]></column_1>
+		<column_2><![CDATA[VANCEBORO, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[106]]></column_1>
+		<column_2><![CDATA[HOULTON, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[107]]></column_1>
+		<column_2><![CDATA[FORT FAIRFIELD, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[108]]></column_1>
+		<column_2><![CDATA[VAN BUREN, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[109]]></column_1>
+		<column_2><![CDATA[MADAWASKA, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[110]]></column_1>
+		<column_2><![CDATA[FORT KENT, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[111]]></column_1>
+		<column_2><![CDATA[BATH, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[112]]></column_1>
+		<column_2><![CDATA[BAR HARBOR, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[115]]></column_1>
+		<column_2><![CDATA[CALAIS, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[118]]></column_1>
+		<column_2><![CDATA[LIMESTONE, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[121]]></column_1>
+		<column_2><![CDATA[ROCKLAND, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[122]]></column_1>
+		<column_2><![CDATA[JONESPORT, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[127]]></column_1>
+		<column_2><![CDATA[BRIDGEWATER, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[131]]></column_1>
+		<column_2><![CDATA[PORTSMOUTH, NH]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[132]]></column_1>
+		<column_2><![CDATA[BELFAST, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[152]]></column_1>
+		<column_2><![CDATA[SEARSPORT, ME]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[182]]></column_1>
+		<column_2><![CDATA[MANCHESTER USER FEE AIRPORT, NH]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[201]]></column_1>
+		<column_2><![CDATA[ST. ALBANS, VT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[203]]></column_1>
+		<column_2><![CDATA[RICHFORD, VT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[206]]></column_1>
+		<column_2><![CDATA[BEECHER FALLS, VT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[207]]></column_1>
+		<column_2><![CDATA[BURLINGTON, VT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[209]]></column_1>
+		<column_2><![CDATA[DERBY LINE, VT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[211]]></column_1>
+		<column_2><![CDATA[NORTON, VT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[212]]></column_1>
+		<column_2><![CDATA[HIGHGATE SPRINGS/ALBURG, VT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[401]]></column_1>
+		<column_2><![CDATA[BOSTON, MA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[402]]></column_1>
+		<column_2><![CDATA[SPRINGFIELD, MA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[403]]></column_1>
+		<column_2><![CDATA[WORCESTER, MA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[404]]></column_1>
+		<column_2><![CDATA[GLOUCESTER, MA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[405]]></column_1>
+		<column_2><![CDATA[NEW BEDFORD, MA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[406]]></column_1>
+		<column_2><![CDATA[PLYMOUTH, MA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[407]]></column_1>
+		<column_2><![CDATA[FALL RIVER, MA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[408]]></column_1>
+		<column_2><![CDATA[SALEM, MA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[410]]></column_1>
+		<column_2><![CDATA[BRIDGEPORT,CT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[411]]></column_1>
+		<column_2><![CDATA[HARTFORD. CT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[412]]></column_1>
+		<column_2><![CDATA[NEW HAVEN,CT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[413]]></column_1>
+		<column_2><![CDATA[NEW LONDON, CT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[416]]></column_1>
+		<column_2><![CDATA[LAWRENCE, MA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[417]]></column_1>
+		<column_2><![CDATA[LOGAN AIRPORT, MA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[481]]></column_1>
+		<column_2><![CDATA[L.G. HANSCOM FIELD, MA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[501]]></column_1>
+		<column_2><![CDATA[NEWPORT, RI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[502]]></column_1>
+		<column_2><![CDATA[PROVIDENCE, RI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[503]]></column_1>
+		<column_2><![CDATA[MELLVILLE, RI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[701]]></column_1>
+		<column_2><![CDATA[OGDENSBURG, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[704]]></column_1>
+		<column_2><![CDATA[MASSENA, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[706]]></column_1>
+		<column_2><![CDATA[CAPE VINCENT, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[708]]></column_1>
+		<column_2><![CDATA[ALEXANDRIA BAY, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[712]]></column_1>
+		<column_2><![CDATA[CHAMPLAIN-ROUSES POINT, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[714]]></column_1>
+		<column_2><![CDATA[CLAYTON, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[715]]></column_1>
+		<column_2><![CDATA[TROUT RIVER, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[901]]></column_1>
+		<column_2><![CDATA[BUFFALO-NIAGARA FALLS, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[903]]></column_1>
+		<column_2><![CDATA[ROCHESTER, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[904]]></column_1>
+		<column_2><![CDATA[OSWEGO, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[905]]></column_1>
+		<column_2><![CDATA[SODUS POINT, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[906]]></column_1>
+		<column_2><![CDATA[SYRACUSE, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[981]]></column_1>
+		<column_2><![CDATA[BINGHAMTON REGIONAL AIRPORT, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[983]]></column_1>
+		<column_2><![CDATA[ITHACA TOMPKINS INTL AIR, ITHACA, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1001]]></column_1>
+		<column_2><![CDATA[NEW YORK, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1002]]></column_1>
+		<column_2><![CDATA[ALBANY, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1101]]></column_1>
+		<column_2><![CDATA[PHILADELPHIA, PA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1102]]></column_1>
+		<column_2><![CDATA[CHESTER, PA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1103]]></column_1>
+		<column_2><![CDATA[WILMINGTON, DE]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1104]]></column_1>
+		<column_2><![CDATA[PITTSBURGH, PA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1105]]></column_1>
+		<column_2><![CDATA[PAULSBORO, NJ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1106]]></column_1>
+		<column_2><![CDATA[WILKES-BARRE/SCRANTON, PA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1107]]></column_1>
+		<column_2><![CDATA[CAMDEN, NJ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1108]]></column_1>
+		<column_2><![CDATA[PHILA. INTL. AIRPORT, PA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1109]]></column_1>
+		<column_2><![CDATA[HARRISBURG, PA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1113]]></column_1>
+		<column_2><![CDATA[GLOUCESTER CITY, NJ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1119]]></column_1>
+		<column_2><![CDATA[ALLENTOWN, PA (LEHIGH VALLEY INTL AIRPT)]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1182]]></column_1>
+		<column_2><![CDATA[ATLANTIC CITY REGIONAL AIRPORT, NJ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1183]]></column_1>
+		<column_2><![CDATA[TRENTON/MERCER COUNTY AIRPORT, NJ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1195]]></column_1>
+		<column_2><![CDATA[UPS, PHILADELPHIA, PA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1301]]></column_1>
+		<column_2><![CDATA[ANNAPOLIS, MD]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1302]]></column_1>
+		<column_2><![CDATA[CAMBRIDGE, MD]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1303]]></column_1>
+		<column_2><![CDATA[BALTIMORE, MD]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1304]]></column_1>
+		<column_2><![CDATA[CRISFIELD, MD]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1305]]></column_1>
+		<column_2><![CDATA[BWI INTERNATIONAL AIRPORT, MD]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1401]]></column_1>
+		<column_2><![CDATA[NORFOLK-NEWPORT NEWS, VA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1404]]></column_1>
+		<column_2><![CDATA[RICHMOND-PETERSBURG, VA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1409]]></column_1>
+		<column_2><![CDATA[CHARLESTON, WV]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1410]]></column_1>
+		<column_2><![CDATA[FRONT ROYAL, VA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1412]]></column_1>
+		<column_2><![CDATA[NEW RIVER VALLEY, VA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1501]]></column_1>
+		<column_2><![CDATA[WILMINGTON, NC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1502]]></column_1>
+		<column_2><![CDATA[WINSTON-SALEM, NC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1503]]></column_1>
+		<column_2><![CDATA[DURHAM, NC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1511]]></column_1>
+		<column_2><![CDATA[BEAUFORT-MOREHEAD CTY,NC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1512]]></column_1>
+		<column_2><![CDATA[CHARLOTTE, NC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1601]]></column_1>
+		<column_2><![CDATA[CHARLESTON, SC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1602]]></column_1>
+		<column_2><![CDATA[GEORGETOWN, SC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1603]]></column_1>
+		<column_2><![CDATA[GREENVILLE-SPARTANBRG, SC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1604]]></column_1>
+		<column_2><![CDATA[COLUMBIA, SC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1681]]></column_1>
+		<column_2><![CDATA[MYRTLE BEACH INTL AIRPORT, SC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1701]]></column_1>
+		<column_2><![CDATA[BRUNSWICK, GA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1703]]></column_1>
+		<column_2><![CDATA[SAVANNAH, GA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1704]]></column_1>
+		<column_2><![CDATA[ATLANTA, GA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1801]]></column_1>
+		<column_2><![CDATA[TAMPA, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1803]]></column_1>
+		<column_2><![CDATA[JACKSONVILLE, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1805]]></column_1>
+		<column_2><![CDATA[FERNANDINA BEACH, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1807]]></column_1>
+		<column_2><![CDATA[BOCA GRANDE, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1808]]></column_1>
+		<column_2><![CDATA[ORLANDO, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1809]]></column_1>
+		<column_2><![CDATA[ORLANDO-SANFORD AIRPORT, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1814]]></column_1>
+		<column_2><![CDATA[ST. PETERSBURG, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1816]]></column_1>
+		<column_2><![CDATA[PORT CANAVERAL, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1818]]></column_1>
+		<column_2><![CDATA[PANAMA CITY, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1819]]></column_1>
+		<column_2><![CDATA[PENSACOLA, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1821]]></column_1>
+		<column_2><![CDATA[PORT MANATEE, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1822]]></column_1>
+		<column_2><![CDATA[FORT MYERS AIRPORT, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1880]]></column_1>
+		<column_2><![CDATA[NAPLES MUNICIPAL USER FEE AIRP, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1883]]></column_1>
+		<column_2><![CDATA[SARASOTA BRADENTON ARPT, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1884]]></column_1>
+		<column_2><![CDATA[DAYTONA BEACH INT'L ARPT, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1885]]></column_1>
+		<column_2><![CDATA[MELBOURNE REGIONAL AIRPORT, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1887]]></column_1>
+		<column_2><![CDATA[LEESBURG REGIONAL AIRP, LEESBURG, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1888]]></column_1>
+		<column_2><![CDATA[ORLANDO EXECUTIVE AIRPORT, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1889]]></column_1>
+		<column_2><![CDATA[ST. AUGUSTINE AIRPORT, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1901]]></column_1>
+		<column_2><![CDATA[MOBILE, AL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1902]]></column_1>
+		<column_2><![CDATA[GULFPORT, MS]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1903]]></column_1>
+		<column_2><![CDATA[PASCAGOULA, MS]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1904]]></column_1>
+		<column_2><![CDATA[BIRMINGHAM, AL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[1910]]></column_1>
+		<column_2><![CDATA[HUNTSVILLE, AL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2001]]></column_1>
+		<column_2><![CDATA[MORGAN CITY, LA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2002]]></column_1>
+		<column_2><![CDATA[NEW ORLEANS, LA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2003]]></column_1>
+		<column_2><![CDATA[LITTLE ROCK, AR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2004]]></column_1>
+		<column_2><![CDATA[BATON ROUGE, LA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2006]]></column_1>
+		<column_2><![CDATA[MEMPHIS, TN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2007]]></column_1>
+		<column_2><![CDATA[NASHVILLE, TN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2008]]></column_1>
+		<column_2><![CDATA[CHATTANOOGA, TN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2010]]></column_1>
+		<column_2><![CDATA[GRAMERCY, LA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2011]]></column_1>
+		<column_2><![CDATA[GREENVILLE, MS]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2015]]></column_1>
+		<column_2><![CDATA[VICKSBURG, MS]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2016]]></column_1>
+		<column_2><![CDATA[KNOXVILLE, TN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2017]]></column_1>
+		<column_2><![CDATA[LAKE CHARLES, LA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2018]]></column_1>
+		<column_2><![CDATA[SHREVEPORT/BOSSIER CITY, LA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2027]]></column_1>
+		<column_2><![CDATA[TRI-CITIES AIRPORT, TN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2095]]></column_1>
+		<column_2><![CDATA[FEDEX, MEMPHIS, TN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2101]]></column_1>
+		<column_2><![CDATA[PORT ARTHUR, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2102]]></column_1>
+		<column_2><![CDATA[SABINE, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2103]]></column_1>
+		<column_2><![CDATA[ORANGE, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2104]]></column_1>
+		<column_2><![CDATA[BEAUMONT, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2301]]></column_1>
+		<column_2><![CDATA[BROWNSVILLE, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2302]]></column_1>
+		<column_2><![CDATA[DEL RIO, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2303]]></column_1>
+		<column_2><![CDATA[EAGLE PASS, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2304]]></column_1>
+		<column_2><![CDATA[LAREDO, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2305]]></column_1>
+		<column_2><![CDATA[HIDALGO, PHARR, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2307]]></column_1>
+		<column_2><![CDATA[RIO GRANDE CITY, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2309]]></column_1>
+		<column_2><![CDATA[PROGRESO, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2310]]></column_1>
+		<column_2><![CDATA[ROMA, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2383]]></column_1>
+		<column_2><![CDATA[VALLEY INTL AIRPORT, HARLINGEN, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2401]]></column_1>
+		<column_2><![CDATA[YSLETA, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2402]]></column_1>
+		<column_2><![CDATA[EL PASO, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2403]]></column_1>
+		<column_2><![CDATA[PRESIDIO, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2404]]></column_1>
+		<column_2><![CDATA[FABENS, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2406]]></column_1>
+		<column_2><![CDATA[COLUMBUS, NM]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2407]]></column_1>
+		<column_2><![CDATA[ALBUQUERQUE, NM]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2408]]></column_1>
+		<column_2><![CDATA[SANTA TERESA, NM]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2481]]></column_1>
+		<column_2><![CDATA[SANTA TERESA AIRPORT, NM]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2501]]></column_1>
+		<column_2><![CDATA[SAN DIEGO, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2502]]></column_1>
+		<column_2><![CDATA[ANDRADE, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2503]]></column_1>
+		<column_2><![CDATA[CALEXICO, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2504]]></column_1>
+		<column_2><![CDATA[SAN YSIDRO]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2505]]></column_1>
+		<column_2><![CDATA[TECATE, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2506]]></column_1>
+		<column_2><![CDATA[OTAY MESA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2507]]></column_1>
+		<column_2><![CDATA[CALEXICO-EAST]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2601]]></column_1>
+		<column_2><![CDATA[DOUGLAS, AZ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2602]]></column_1>
+		<column_2><![CDATA[LUKEVILLE, AZ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2603]]></column_1>
+		<column_2><![CDATA[NACO, AZ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2604]]></column_1>
+		<column_2><![CDATA[NOGALES, AZ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2605]]></column_1>
+		<column_2><![CDATA[PHOENIX, AZ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2606]]></column_1>
+		<column_2><![CDATA[SASABE, AZ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2608]]></column_1>
+		<column_2><![CDATA[SAN LUIS, AZ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2609]]></column_1>
+		<column_2><![CDATA[TUCSON, AZ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2704]]></column_1>
+		<column_2><![CDATA[LOS ANGELES, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2709]]></column_1>
+		<column_2><![CDATA[LONG BEACH, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2712]]></column_1>
+		<column_2><![CDATA[VENTURA, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2713]]></column_1>
+		<column_2><![CDATA[PORT HUENEME, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2715]]></column_1>
+		<column_2><![CDATA[CAPITAN, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2719]]></column_1>
+		<column_2><![CDATA[MORRO BAY, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2721]]></column_1>
+		<column_2><![CDATA[ONTARIO INTL AIRPORT, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2722]]></column_1>
+		<column_2><![CDATA[LAS VEGAS, NV]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2770]]></column_1>
+		<column_2><![CDATA[DHL, LOS ANGELES, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2775]]></column_1>
+		<column_2><![CDATA[TNT EXPRESS, LAX, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2776]]></column_1>
+		<column_2><![CDATA[IBC PACIFIC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2786]]></column_1>
+		<column_2><![CDATA[MEADOWS FIELD AIRPORT, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2791]]></column_1>
+		<column_2><![CDATA[LOS ANGELES, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2795]]></column_1>
+		<column_2><![CDATA[UPS-ONTARIO, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2801]]></column_1>
+		<column_2><![CDATA[SAN FRANCISCO INTL ARPT, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2802]]></column_1>
+		<column_2><![CDATA[EUREKA, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2803]]></column_1>
+		<column_2><![CDATA[FRESNO, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2805]]></column_1>
+		<column_2><![CDATA[MONTEREY, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2809]]></column_1>
+		<column_2><![CDATA[SAN FRANCISCO, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2810]]></column_1>
+		<column_2><![CDATA[STOCKTON, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2811]]></column_1>
+		<column_2><![CDATA[OAKLAND, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2812]]></column_1>
+		<column_2><![CDATA[RICHMOND,CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2815]]></column_1>
+		<column_2><![CDATA[CROCKETT,CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2820]]></column_1>
+		<column_2><![CDATA[MARTINEZ,CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2821]]></column_1>
+		<column_2><![CDATA[REDWOOD CITY,CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2827]]></column_1>
+		<column_2><![CDATA[SELBY,CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2828]]></column_1>
+		<column_2><![CDATA[SAN JUAQUIN RIVER,CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2829]]></column_1>
+		<column_2><![CDATA[SAN PABLO BAY,CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2830]]></column_1>
+		<column_2><![CDATA[CARQUINEZ STRAIT,CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2833]]></column_1>
+		<column_2><![CDATA[RENO, NV]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2834]]></column_1>
+		<column_2><![CDATA[SAN JOSE INTL AIRPORT, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2835]]></column_1>
+		<column_2><![CDATA[SACRAMENTO INT'L AIRPORT, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2871]]></column_1>
+		<column_2><![CDATA[AIRCARGO HANDLING SERVIC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2895]]></column_1>
+		<column_2><![CDATA[FEDEX, OAKLAND, CA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2901]]></column_1>
+		<column_2><![CDATA[ASTORIA, OR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2902]]></column_1>
+		<column_2><![CDATA[NEWPORT, OR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2903]]></column_1>
+		<column_2><![CDATA[COOS BAY, OR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2904]]></column_1>
+		<column_2><![CDATA[PORTLAND, OR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2905]]></column_1>
+		<column_2><![CDATA[LONGVIEW, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2907]]></column_1>
+		<column_2><![CDATA[BOISE, ID]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2908]]></column_1>
+		<column_2><![CDATA[VANCOUVER, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2909]]></column_1>
+		<column_2><![CDATA[KALAMA, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[2910]]></column_1>
+		<column_2><![CDATA[PORTLAND INTL AIRPORT, OR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3001]]></column_1>
+		<column_2><![CDATA[SEATTLE, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3002]]></column_1>
+		<column_2><![CDATA[TACOMA, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3003]]></column_1>
+		<column_2><![CDATA[ABERDEEN, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3004]]></column_1>
+		<column_2><![CDATA[BLAINE, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3005]]></column_1>
+		<column_2><![CDATA[BELLINGHAM, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3006]]></column_1>
+		<column_2><![CDATA[EVERETT, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3007]]></column_1>
+		<column_2><![CDATA[PORT ANGELES, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3008]]></column_1>
+		<column_2><![CDATA[PORT TOWNSEND, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3009]]></column_1>
+		<column_2><![CDATA[SUMAS, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3010]]></column_1>
+		<column_2><![CDATA[ANACORTES, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3011]]></column_1>
+		<column_2><![CDATA[NIGHTHAWK, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3012]]></column_1>
+		<column_2><![CDATA[DANVILLE, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3013]]></column_1>
+		<column_2><![CDATA[FERRY, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3014]]></column_1>
+		<column_2><![CDATA[FRIDAY HARBOR, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3015]]></column_1>
+		<column_2><![CDATA[BOUNDARY, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3016]]></column_1>
+		<column_2><![CDATA[LAURIER, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3017]]></column_1>
+		<column_2><![CDATA[POINT ROBERTS, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3018]]></column_1>
+		<column_2><![CDATA[KENMORE AIR HARBOR, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3019]]></column_1>
+		<column_2><![CDATA[OROVILLE, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3020]]></column_1>
+		<column_2><![CDATA[FRONTIER, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3022]]></column_1>
+		<column_2><![CDATA[SPOKANE, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3023]]></column_1>
+		<column_2><![CDATA[LYNDEN, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3025]]></column_1>
+		<column_2><![CDATA[METALINE FALLS]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3026]]></column_1>
+		<column_2><![CDATA[OLYMPIA, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3029]]></column_1>
+		<column_2><![CDATA[SEATTLE-TACOMA INTL ARPT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3071]]></column_1>
+		<column_2><![CDATA[UPS, SEATTLE, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3072]]></column_1>
+		<column_2><![CDATA[AVION BROKERS @ SEATAC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3073]]></column_1>
+		<column_2><![CDATA[DHL WORLDWIDE EXPRESS]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3074]]></column_1>
+		<column_2><![CDATA[AIRBORNE EXPRESS @SEATAC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3082]]></column_1>
+		<column_2><![CDATA[GRANT COUNTY AIRPORT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3095]]></column_1>
+		<column_2><![CDATA[UPS COURIER HUB, SEATTLE, WA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3101]]></column_1>
+		<column_2><![CDATA[JUNEAU, AK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3102]]></column_1>
+		<column_2><![CDATA[KETCHIKAN, AK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3103]]></column_1>
+		<column_2><![CDATA[SKAGWAY, AK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3104]]></column_1>
+		<column_2><![CDATA[ALCAN, AK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3105]]></column_1>
+		<column_2><![CDATA[WRANGELL, AK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3106]]></column_1>
+		<column_2><![CDATA[DALTON CACHE, AK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3111]]></column_1>
+		<column_2><![CDATA[FAIRBANKS, AK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3115]]></column_1>
+		<column_2><![CDATA[SITKA, AK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3126]]></column_1>
+		<column_2><![CDATA[ANCHORAGE, AK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3195]]></column_1>
+		<column_2><![CDATA[FEDEX, ANCHORAGE, AK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3196]]></column_1>
+		<column_2><![CDATA[UPS COURIER HUB, ANCHORAGE, AK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3201]]></column_1>
+		<column_2><![CDATA[HONOLULU, HI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3202]]></column_1>
+		<column_2><![CDATA[HILO, HI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3203]]></column_1>
+		<column_2><![CDATA[KAHULUI, HI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3204]]></column_1>
+		<column_2><![CDATA[NAWILIWILI-PORT ALLEN,HI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3205]]></column_1>
+		<column_2><![CDATA[HONOLULU INTL AIRPRT, HI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3206]]></column_1>
+		<column_2><![CDATA[KONA, HI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3279]]></column_1>
+		<column_2><![CDATA[FEDEX CORP HONOLULU, HI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3301]]></column_1>
+		<column_2><![CDATA[RAYMOND, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3302]]></column_1>
+		<column_2><![CDATA[EASTPORT, ID]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3303]]></column_1>
+		<column_2><![CDATA[SALT LAKE CITY, UT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3304]]></column_1>
+		<column_2><![CDATA[GREAT FALLS, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3305]]></column_1>
+		<column_2><![CDATA[BUTTE, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3306]]></column_1>
+		<column_2><![CDATA[TURNER, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3307]]></column_1>
+		<column_2><![CDATA[DENVER, CO]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3308]]></column_1>
+		<column_2><![CDATA[PORTHILL, ID]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3309]]></column_1>
+		<column_2><![CDATA[SCOBY, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3310]]></column_1>
+		<column_2><![CDATA[SWEETGRASS, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3316]]></column_1>
+		<column_2><![CDATA[PIEGAN, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3317]]></column_1>
+		<column_2><![CDATA[OPHEIM, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3318]]></column_1>
+		<column_2><![CDATA[ROOSVILLE, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3319]]></column_1>
+		<column_2><![CDATA[MORGAN, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3321]]></column_1>
+		<column_2><![CDATA[WHITLASH, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3322]]></column_1>
+		<column_2><![CDATA[DEL BONITA, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3323]]></column_1>
+		<column_2><![CDATA[WILDHORSE, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3324]]></column_1>
+		<column_2><![CDATA[KALISPELL AIRPORT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3325]]></column_1>
+		<column_2><![CDATA[WILLOW CREEK, HAVRE, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3384]]></column_1>
+		<column_2><![CDATA[ARAPAHOE COUNTY PUBLIC AIRPORT, CO]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3385]]></column_1>
+		<column_2><![CDATA[EAGLE COUNTY REGIONAL AIRPORT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3386]]></column_1>
+		<column_2><![CDATA[BOZEMAN YELLOWSTONE USER FEE AIRPORT, BELGRADE, MT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3401]]></column_1>
+		<column_2><![CDATA[PEMBINA, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3403]]></column_1>
+		<column_2><![CDATA[PORTAL, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3404]]></column_1>
+		<column_2><![CDATA[NECHE, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3405]]></column_1>
+		<column_2><![CDATA[ST JOHN, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3406]]></column_1>
+		<column_2><![CDATA[NORTHGATE, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3407]]></column_1>
+		<column_2><![CDATA[WALHALLA, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3408]]></column_1>
+		<column_2><![CDATA[HANNAH, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3409]]></column_1>
+		<column_2><![CDATA[SARLES, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3410]]></column_1>
+		<column_2><![CDATA[AMBROSE, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3411]]></column_1>
+		<column_2><![CDATA[FARGO,ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3413]]></column_1>
+		<column_2><![CDATA[ANTLER, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3414]]></column_1>
+		<column_2><![CDATA[SHERWOOD, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3415]]></column_1>
+		<column_2><![CDATA[HANSBORO, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3416]]></column_1>
+		<column_2><![CDATA[MAIDA, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3417]]></column_1>
+		<column_2><![CDATA[FORTUNA, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3419]]></column_1>
+		<column_2><![CDATA[WESTHOPE, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3420]]></column_1>
+		<column_2><![CDATA[NOONAN, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3421]]></column_1>
+		<column_2><![CDATA[CARBURY, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3422]]></column_1>
+		<column_2><![CDATA[DUNSEITH, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3423]]></column_1>
+		<column_2><![CDATA[WARROAD, MN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3424]]></column_1>
+		<column_2><![CDATA[BAUDETTE, MN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3425]]></column_1>
+		<column_2><![CDATA[PINECREEK, MN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3426]]></column_1>
+		<column_2><![CDATA[ROSEAU, MN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3427]]></column_1>
+		<column_2><![CDATA[GRAND FORKS, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3430]]></column_1>
+		<column_2><![CDATA[LANCASTER, MN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3433]]></column_1>
+		<column_2><![CDATA[WILLISTON AIRPORT, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3434]]></column_1>
+		<column_2><![CDATA[MINOT AIRPORT, ND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3501]]></column_1>
+		<column_2><![CDATA[MINNEAPOLIS-ST. PAUL, MN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3502]]></column_1>
+		<column_2><![CDATA[SIOUX FALLS, S.D.]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3510]]></column_1>
+		<column_2><![CDATA[DULUTH, MN-SUPERIOR, WI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3511]]></column_1>
+		<column_2><![CDATA[ASHLAND, WI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3512]]></column_1>
+		<column_2><![CDATA[OMAHA, NE]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3513]]></column_1>
+		<column_2><![CDATA[DES MOINES, IA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3581]]></column_1>
+		<column_2><![CDATA[ROCHESTER USER FEE AIRP, ROCHESTER, MN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3604]]></column_1>
+		<column_2><![CDATA[INTERNATIONAL FALLS, MN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3613]]></column_1>
+		<column_2><![CDATA[GRAND PORTAGE, MN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3701]]></column_1>
+		<column_2><![CDATA[MILWAUKEE, WI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3702]]></column_1>
+		<column_2><![CDATA[MARINETTE, WI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3703]]></column_1>
+		<column_2><![CDATA[GREEN BAY, WI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3706]]></column_1>
+		<column_2><![CDATA[MANITOWOC, WI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3708]]></column_1>
+		<column_2><![CDATA[RACINE, WI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3801]]></column_1>
+		<column_2><![CDATA[DETROIT, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3802]]></column_1>
+		<column_2><![CDATA[PORT HURON, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3803]]></column_1>
+		<column_2><![CDATA[SAULT STE. MARIE, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3804]]></column_1>
+		<column_2><![CDATA[SAGINAW/BAY CITY, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3805]]></column_1>
+		<column_2><![CDATA[BATTLE CREEK, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3806]]></column_1>
+		<column_2><![CDATA[GRAND RAPIDS, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3807]]></column_1>
+		<column_2><![CDATA[DETROIT METRO AIRPORT, DETROIT, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3808]]></column_1>
+		<column_2><![CDATA[ESCANABA, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3809]]></column_1>
+		<column_2><![CDATA[MARQUETTE, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3814]]></column_1>
+		<column_2><![CDATA[ALGONAC, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3815]]></column_1>
+		<column_2><![CDATA[MUSKEGON, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3816]]></column_1>
+		<column_2><![CDATA[GRAND HAVEN, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3818]]></column_1>
+		<column_2><![CDATA[ROGERS CITY, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3819]]></column_1>
+		<column_2><![CDATA[DETOUR, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3842]]></column_1>
+		<column_2><![CDATA[PRESQUE ISLE, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3843]]></column_1>
+		<column_2><![CDATA[ALPENA, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3881]]></column_1>
+		<column_2><![CDATA[OAKLAND/PONTIAC AIRPORT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3882]]></column_1>
+		<column_2><![CDATA[WILLOW RUN AIRPORT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3883]]></column_1>
+		<column_2><![CDATA[CAPITAL REGION INTL AIRPORT, LANSING, MI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3901]]></column_1>
+		<column_2><![CDATA[CHICAGO, IL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3902]]></column_1>
+		<column_2><![CDATA[PEORIA, IL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3905]]></column_1>
+		<column_2><![CDATA[GARY, IN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3908]]></column_1>
+		<column_2><![CDATA[DAVENPORT-ROCK ISLAND]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3909]]></column_1>
+		<column_2><![CDATA[GREATER ROCKFORD AIRPORT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3910]]></column_1>
+		<column_2><![CDATA[CHICAGO MIDWAY INT'L AIRPORT, IL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3971]]></column_1>
+		<column_2><![CDATA[TNT EXPRESS CONSIGNMENT, CHICAGO, IL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3983]]></column_1>
+		<column_2><![CDATA[CHICAGO EXECUTIVE AIRPORT, IL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3984]]></column_1>
+		<column_2><![CDATA[DUPAGE AIRPORT, IL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[3987]]></column_1>
+		<column_2><![CDATA[UFA UI WILLARD AIRPORT, SAVOY, IL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4101]]></column_1>
+		<column_2><![CDATA[CLEVELAND, OH]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4102]]></column_1>
+		<column_2><![CDATA[CINCINNATI, OH]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4103]]></column_1>
+		<column_2><![CDATA[COLUMBUS, OH]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4104]]></column_1>
+		<column_2><![CDATA[DAYTON, OH]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4105]]></column_1>
+		<column_2><![CDATA[TOLEDO, OH]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4106]]></column_1>
+		<column_2><![CDATA[ERIE, PA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4110]]></column_1>
+		<column_2><![CDATA[INDIANAPOLIS, IN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4115]]></column_1>
+		<column_2><![CDATA[LOUISVILLE, KY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4116]]></column_1>
+		<column_2><![CDATA[OWENSBORO, KY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4117]]></column_1>
+		<column_2><![CDATA[HURON, OH]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4121]]></column_1>
+		<column_2><![CDATA[LORAIN, OH]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4122]]></column_1>
+		<column_2><![CDATA[ASHTABULA/CONNEAUT, OH]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4183]]></column_1>
+		<column_2><![CDATA[FORT WAYNE AIRPORT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4184]]></column_1>
+		<column_2><![CDATA[BLUE GRASS AIRPORT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4196]]></column_1>
+		<column_2><![CDATA[UPS COURIER]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4197]]></column_1>
+		<column_2><![CDATA[DHL CINCINNATI, OH]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4198]]></column_1>
+		<column_2><![CDATA[FEDEX, INDIANAPOLIS, IN]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4501]]></column_1>
+		<column_2><![CDATA[KANSAS CITY, MO]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4502]]></column_1>
+		<column_2><![CDATA[ST JOSEPH, MO]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4503]]></column_1>
+		<column_2><![CDATA[ST LOUIS, MO]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4504]]></column_1>
+		<column_2><![CDATA[WICHITA, KS]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4505]]></column_1>
+		<column_2><![CDATA[SPRINGFIELD, MO]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4581]]></column_1>
+		<column_2><![CDATA[MIDAMERICAN AIRPORT, IL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4601]]></column_1>
+		<column_2><![CDATA[NEWARK, NJ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4602]]></column_1>
+		<column_2><![CDATA[PERTH AMBOY, NJ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4670]]></column_1>
+		<column_2><![CDATA[UPS, NEWARK, NJ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4671]]></column_1>
+		<column_2><![CDATA[FEDEX ECCF, NEWARK, NJ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4681]]></column_1>
+		<column_2><![CDATA[MORRISTOWN AIRPORT, NJ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4701]]></column_1>
+		<column_2><![CDATA[JOHN F KENNEDY INTL AIRPORT, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4771]]></column_1>
+		<column_2><![CDATA[NYACC, JAMAICA, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4772]]></column_1>
+		<column_2><![CDATA[DHL AIRWAYS, JAMAICA, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4773]]></column_1>
+		<column_2><![CDATA[MICOM, JAMAICA, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4774]]></column_1>
+		<column_2><![CDATA[AIR FRANCE (MACH PLUS), JAMAICA, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4778]]></column_1>
+		<column_2><![CDATA[TNT SKYPAK, JAMAICA, NY]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4901]]></column_1>
+		<column_2><![CDATA[AGUADILLA, PR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4904]]></column_1>
+		<column_2><![CDATA[FAJARDO, PR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4907]]></column_1>
+		<column_2><![CDATA[MAYAGUEZ, PR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4908]]></column_1>
+		<column_2><![CDATA[PONCE, PR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4909]]></column_1>
+		<column_2><![CDATA[SAN JUAN, PR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4913]]></column_1>
+		<column_2><![CDATA[SAN JUAN INTL AIRPORT, PR]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[4952]]></column_1>
+		<column_2><![CDATA[ST. THOMAS VI BORDER PATROL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5101]]></column_1>
+		<column_2><![CDATA[CHARLOTTE AMALIE, VI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5102]]></column_1>
+		<column_2><![CDATA[CRUZ BAY, VI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5104]]></column_1>
+		<column_2><![CDATA[CHRISTIANSTED, VI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5105]]></column_1>
+		<column_2><![CDATA[FREDERIKSTED, VI]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5201]]></column_1>
+		<column_2><![CDATA[MIAMI, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5202]]></column_1>
+		<column_2><![CDATA[KEY WEST, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5203]]></column_1>
+		<column_2><![CDATA[PORT EVERGLADES, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5204]]></column_1>
+		<column_2><![CDATA[WEST PALM BEACH, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5205]]></column_1>
+		<column_2><![CDATA[FORT PIERCE, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5206]]></column_1>
+		<column_2><![CDATA[MIAMI INTL AIRPORT]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5210]]></column_1>
+		<column_2><![CDATA[FT. LAUDERDALE-HOLLYWOOD INTL AIRP]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5295]]></column_1>
+		<column_2><![CDATA[UPS COURIER HUB, MIAMI, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5296]]></column_1>
+		<column_2><![CDATA[DHL WORLDWIDE EXPRESS, MIAMI, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5297]]></column_1>
+		<column_2><![CDATA[FEDEX COURIER HUB, MIAMI, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5298]]></column_1>
+		<column_2><![CDATA[IBC COURIER HUB, FL]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5301]]></column_1>
+		<column_2><![CDATA[HOUSTON, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5306]]></column_1>
+		<column_2><![CDATA[TEXAS CITY, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5309]]></column_1>
+		<column_2><![CDATA[HOUSTON INTERCONTL AIRP, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5310]]></column_1>
+		<column_2><![CDATA[GALVESTON, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5311]]></column_1>
+		<column_2><![CDATA[FREEPORT, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5312]]></column_1>
+		<column_2><![CDATA[CORPUS CHRISTI, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5313]]></column_1>
+		<column_2><![CDATA[PORT LAVACA, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5381]]></column_1>
+		<column_2><![CDATA[SUGAR LAND REG AIRP, SUGAR LAND, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5401]]></column_1>
+		<column_2><![CDATA[WASHINGTON, DC]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5402]]></column_1>
+		<column_2><![CDATA[ALEXANDRIA, VA]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5501]]></column_1>
+		<column_2><![CDATA[DALLAS/FT. WORTH, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5502]]></column_1>
+		<column_2><![CDATA[AMARILLO, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5503]]></column_1>
+		<column_2><![CDATA[LUBBOCK, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5504]]></column_1>
+		<column_2><![CDATA[OKLAHOMA CITY, OK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5505]]></column_1>
+		<column_2><![CDATA[TULSA, OK]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5506]]></column_1>
+		<column_2><![CDATA[AUSTIN, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5507]]></column_1>
+		<column_2><![CDATA[SAN ANTONIO, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5582]]></column_1>
+		<column_2><![CDATA[MIDLAND INTL AIRPORT, MIDLAND, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5583]]></column_1>
+		<column_2><![CDATA[FORTH WORTH ALLIANCE  AIRP, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5584]]></column_1>
+		<column_2><![CDATA[ADDISON AIRPORT, ADDISON, TX]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[5588]]></column_1>
+		<column_2><![CDATA[DALLAS LOVE FIELD USER FEE AIRP, DALLAS, TX]]></column_2>
+	</node>
+</data>

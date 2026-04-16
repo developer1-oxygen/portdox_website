@@ -1,0 +1,14 @@
+/*
+Theme Name: Portdox Logistics Pro
+Theme URI: https://portdox.com
+Author: Faizan
+Author URI: https://portdox.com
+Description: Custom WordPress theme for Portdox — logistics and digital freight platform. Main UI styles load from assets/css/.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: portdox_theme
+Tags: logistics, business, custom-menu, featured-images
+*/
+
+/* Root stylesheet: design tokens live in assets/css/. Keep this file for WordPress theme recognition. */

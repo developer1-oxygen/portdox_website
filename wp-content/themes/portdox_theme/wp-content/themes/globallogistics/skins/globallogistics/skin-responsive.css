@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+/* Responsive styles
+-------------------------------------------------------------- */
+
+
+
+
+/*
+Apple iPhone 5, 5S & 5C 
+Apple iPod Touch (5th generation)
+*/
+
+@media (min-width: 1280px) and (max-width: 1439px) {
+    h1 { font-size:56px; }
+    h2 { font-size:46px; }
+    h3 { font-size:30px; }
+    h4 { font-size:24px; }
+}
+
+@media (min-width: 1136px) and (max-width: 1279px) {
+    h1 { font-size:52px; line-height: 54px; }
+    h2 { font-size:42px; line-height: 44px; }
+    h3 { font-size:26px; line-height: 30px; }
+    h4 { font-size:20px; line-height: 24px; }
+    h5 { font-size:17px; }
+    h6 { font-size:15px; }
+}
+
+
+@media (min-width: 1024px) and (max-width: 1135px) {
+    h1 { font-size:50px; line-height: 52px; }
+    h2 { font-size:40px; line-height: 42px; }
+    h3 { font-size:24px; line-height: 28px; }
+    h4 { font-size:20px; line-height: 24px; }
+    h5 { font-size:17px; }
+    h6 { font-size:15px; }
+}
+
+
+/*
+Apple iPhone 4 & 4S
+Apple iPod Touch (4th generation)
+*/
+@media (min-width: 960px) and (max-width: 1023px) {
+    h1 { font-size:48px; line-height: 50px; }
+    h2 { font-size:39px; line-height: 42px; }
+    h3 { font-size:24px; line-height: 28px; }
+    h4 { font-size:20px; line-height: 24px; }
+    h5 { font-size:17px; }
+    h6 { font-size:15px; }
+
+    /* Post parts */
+	.post_rating .reviews_star {
+		font-size:1em;
+	}
+}
+
+
+/*
+Sony Xperia
+LG Optimus
+Blackberry Storm 3, Torch 9850 & Torch 9860
+Nokia Lumia 610, 710 & 800
+HTC Desire, Desire Z, Desire S & One V
+Samsung Galaxy
+*/
+@media (min-width: 768px) and (max-width: 959px) {
+    body { font-size: 14px; line-height: 22px; }
+    h1 { font-size:39px; line-height: 44px; }
+    h2 { font-size:32px; line-height: 38px; }
+    h3 { font-size:21px; line-height: 26px; }
+    h4 { font-size:18px; line-height: 22px; }
+    h5 { font-size:17px; line-height: 20px; }
+    h6 { font-size:15px; line-height: 18px; }
+
+    /* Post parts */
+	.post_rating .reviews_star {
+		font-size:1em;
+	}
+}
+
+
+/*
+Portrait orientation
+
+Sony Xperia
+LG Optimus
+Blackberry Storm 3, Torch 9850 & Torch 9860
+Nokia Lumia 610, 710 & 800
+HTC Desire, Desire Z, Desire S & One V
+Samsung Galaxy
+*/
+@media (min-width: 480px) and (max-width: 767px) {
+    body { font-size: 13px; line-height: 20px; }
+    h1 { font-size:28px; line-height: 32px; }
+    h2 { font-size:24px; line-height: 28px; }
+    h3 { font-size:20px; line-height: 24px; }
+    h4 { font-size:18px; line-height: 22px; }
+    h5 { font-size:16px; line-height: 19px; }
+    h6 { font-size:15px; line-height: 18px; }
+}
+
+
+/*
+Very common low res
+*/
+@media (max-width: 479px) {
+    body { font-size: 12px; line-height: 18px; }
+    h1 { font-size:23px; line-height: 27px; letter-spacing:-0.5px; }
+    h2 { font-size:20px; line-height: 24px; letter-spacing:-0.5px; }
+    h3 { font-size:18px; line-height: 22px; letter-spacing:-0.5px; }
+    h4 { font-size:16px; line-height: 20px; letter-spacing:-0.5px; }
+    h5 { font-size:15px; line-height: 18px; letter-spacing:-0.5px; }
+    h6 { font-size:14px; line-height: 16px; letter-spacing:-0.5px; }
+}

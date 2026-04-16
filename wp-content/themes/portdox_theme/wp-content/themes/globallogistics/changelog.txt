@@ -1,0 +1,97 @@
+Version 2.6
+    Added:
+    - Alert to Demo data installation
+
+    Fixed:
+    - Compatibility with PHP 7.3
+    - Compatibility with Wordpress 5.2
+    - Update plugins to their latest versions
+    - Compatibility with Gutenberg and other PageBuilders
+    - Google map
+    - Update documentation
+
+    Changed:
+    - Make forms GDPR-compliant
+    - Move Importer to Universal Services Plugin
+
+Version 2.5.1
+    Fixed:
+    - Mobile submenu
+
+Version 2.5
+	* Compatibility with PHP7
+	* The theme is now compatible with version WooCommerce 3.0 and higher
+	* Plugins updated
+	* Fixed Theme options -> show_post_counters
+	* Fixed return Custom font-face list
+
+Version 2.4
+	* Social login improved
+
+Version 2.3
+	+ Compatibility with VC latest versions is improved (vc theme setup updated)
+	* Css styles minor fixes
+
+Version 2.2
+    + Google Map update
+
+Version 2.1
+    * Revslider plugins updated
+    * Theme compatibility with new version of RevSlider is improved.
+    * WPBakery PageBuilder is updated
+
+Version 2.0
+    * WordPress 4.5 ready
+    * All plugins updated
+    * Layout of shortcode [trx_gap] is fixed.
+
+Version 1.9
+	* Shortcodes (Testimonials) - minor fixes
+	* WPBakery PageBuilder is updated to its latest version
+
+Version 1.8
+	* Shortcodes (Contact form, Team) - minor fixes
+	* Css styles for logo are updated
+
+Version 1.7
+   	Css styles for shortcodes (video) are updated
+	* Fixed breadcrumbs map
+
+Version 1.6
+    + Child theme has been added
+    * WPBakery PageBuilder is updated to its latest version
+
+Version 1.5
+	* Optional blocks' drag and drop issue in admin panel has been fixed
+	* Slider settings for posts have been added
+
+Version 1.4.1
+	Google map shortcode fix (issue with locations number is fixed)
+
+Version 1.4
+	Compatibility of view counter with the parameter "Use AJAX post views counter -> Yes" fixed
+
+Version 1.3
+	WPBakery PageBuilder is updated to its latest version
+
+Version 1.2.1
+	Documentation updated
+
+Version 1.2
+	+ Compatibility with VC latest versions is improved.
+	+ Instagram plugin updated
+
+Version 1.1.3
+	Css styles for shortcodes (skills) are updated
+
+Version 1.1.2
+	Css styles for shortcodes (tab icons) are updated
+
+Version 1.1.1
+	Documentation updated
+
+Version 1.1
+	+ Added: Built-in demo data import: one click  - and your website becomes a precise copy of our demo site!
+
+Version 1.0
+	Release

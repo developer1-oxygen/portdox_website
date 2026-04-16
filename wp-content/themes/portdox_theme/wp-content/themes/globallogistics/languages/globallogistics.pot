@@ -1,0 +1,230 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GlobalLogistics\n"
+"POT-Creation-Date: 2019-05-19 13:05+0300\n"
+"PO-Revision-Date: 2015-07-23 14:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: ThemeREX\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: _e;gettext;gettext_noop;__;_x;_n_noop\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:146
+#, php-format
+msgid "For further details on handling user data, see our %s"
+msgstr ""
+
+#: functions.php:148
+msgid "Privacy Policy"
+msgstr ""
+
+#: fw/core/core.options/core.options-settings.php:200
+msgid "Specify text with Privacy Policy link for the checkbox 'I agree ...'"
+msgstr ""
+
+#: fw/core/core.options/core.options-settings.php:201
+msgid "I agree that my submitted data is being collected and stored."
+msgstr ""
+
+#: fw/core/core.options/core.options-settings.php:242
+msgid ""
+"Select body style:<br><b>boxed</b> - if you want use background color and/or "
+"image,<br><b>wide</b> - page fill whole window with centered content,"
+"<br><b>fullscreen</b> - page content fill whole window without any paddings"
+msgstr ""
+
+#: fw/core/core.options/core.options-settings.php:430
+msgid ""
+"Upload a 16px x 16px image that will represent your website's favicon.<br /"
+"><em>To ensure cross-browser compatibility, we recommend converting the "
+"favicon into .ico format before uploading. (<a href=\"http://www.favicon.cc/"
+"\">www.favicon.cc</a>)</em>"
+msgstr ""
+
+#: fw/core/core.options/core.options-settings.php:1397
+msgid ""
+"Select fonts, sizes and styles for the headings and paragraphs. You can use "
+"Google fonts and custom fonts.<br><br>How to install custom @font-face fonts "
+"into the theme?<br>All @font-face fonts are located in \"theme_name/css/font-"
+"face/\" folder in the separate subfolders for the each font. Subfolder name "
+"is a font-family name!<br>Place full set of the font files (for each font "
+"style and weight) and css-file named stylesheet.css in the each subfolder."
+"<br>Create your @font-face kit by using <a href=\"http://www.fontsquirrel."
+"com/fontface/generator\">Fontsquirrel @font-face Generator</a> and then "
+"extract the font kit (with folder in the kit) into the \"theme_name/css/font-"
+"face\" folder to install."
+msgstr ""
+
+#: fw/core/core.options/core.options-settings.php:2417
+msgid ""
+"Add button's code for each social share network.<br>\n"
+"\t\t\t\t\tIn share url you can use next macro:<br>\n"
+"\t\t\t\t\t<b>{url}</b> - share post (page) URL,<br>\n"
+"\t\t\t\t\t<b>{title}</b> - post title,<br>\n"
+"\t\t\t\t\t<b>{image}</b> - post image,<br>\n"
+"\t\t\t\t\t<b>{descr}</b> - post description (if supported)<br>\n"
+"\t\t\t\t\tFor example:<br>\n"
+"\t\t\t\t\t<b>Facebook</b> share string: <em>http://www.facebook.com/sharer."
+"php?u={link}&amp;t={title}</em><br>\n"
+"\t\t\t\t\t<b>Delicious</b> share string: <em>http://delicious.com/save?"
+"url={link}&amp;title={title}&amp;note={descr}</em>"
+msgstr ""
+
+#: fw/core/core.options/core.options-settings.php:2457
+msgid ""
+"Select icon and write share URL for desired social networks.<br><b>Important!"
+"</b> If you leave text field empty - internal theme link will be used (if "
+"present)."
+msgstr ""
+
+#: fw/core/core.options/core.options-settings.php:2468
+msgid ""
+"Put to this section Twitter API 1.1 keys.<br>\n"
+"\t\t\t\t\tYou can take them after registration your application in "
+"<strong>https://apps.twitter.com/</strong>"
+msgstr ""
+
+#: fw/core/core.options/core.options-settings.php:2639
+msgid ""
+"Show additional filters (on post formats, tags and categories) in admin "
+"panel page \"Posts\". <br>Attention! If you have more than 2.000-3.000 "
+"posts, enabling this option may cause slow load of the \"Posts\" page! If "
+"you encounter such slow down, simply open Appearance - Theme Options - "
+"Service and set \"No\" for this option."
+msgstr ""
+
+#: fw/core/core.options/core.options-settings.php:2660
+msgid ""
+"Show \"Install Dummy Data\" in the menu \"Appearance\". <b>Attention!</b> "
+"When you install dummy data all content of your site will be replaced!"
+msgstr ""
+
+#: fw/core/core.options/core.options-settings.php:2675
+msgid ""
+"Show update notifier in admin panel. <b>Attention!</b> When this option is "
+"enabled, the theme periodically (every few hours) will communicate with our "
+"server, to check the current version. When the connection is slow, it may "
+"slow down Dashboard."
+msgstr ""
+
+#: fw/core/core.options/core.options-settings.php:2689
+msgid ""
+"Do you want remove spaces and line breaks around shortcodes? <b>Be attentive!"
+"</b> This option thoroughly tested on our theme, but may affect third party "
+"plugins."
+msgstr ""
+
+#: fw/core/core.options/core.options-settings.php:2725
+msgid ""
+"Insert Google API Key for browsers into the field above to generate Google "
+"Maps"
+msgstr ""
+
+#: fw/core/core.wp.php:633
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: fw/core/plugin.woocommerce.php:412
+msgid "Show products as thumbs"
+msgstr ""
+
+#: fw/core/plugin.woocommerce.php:413
+msgid "Show products as list"
+msgstr ""
+
+#: fw/core/plugin.woocommerce.php:508
+msgid "Product ID: "
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: fw/lib/tgm/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: templates/404.php:37
+#, php-format
+msgid ""
+"Go back, or return to <a href=\"%s\">Global Logistics</a> home page to "
+"choose a new page.<br/>Please report any broken links to our team."
+msgstr ""
+
+#: templates/no-articles.php:31 templates/no-search.php:32
+#, php-format
+msgid ""
+"Go back, or return to <a href=\"%s\">%s</a> home page to choose a new page."
+msgstr ""
+
+#: templates/parts/counters.php:30
+msgid "Like"
+msgstr ""
+
+#: templates/parts/counters.php:30
+msgid "Dislike"
+msgstr ""
+
+#: templates/parts/reviews-block.php:45
+#, php-format
+msgid "Summary rating from <b>%s</b> user's marks."
+msgstr ""

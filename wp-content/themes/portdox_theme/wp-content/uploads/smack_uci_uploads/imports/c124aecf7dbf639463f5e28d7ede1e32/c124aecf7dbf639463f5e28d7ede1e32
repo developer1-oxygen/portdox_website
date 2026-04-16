@@ -1,0 +1,3 @@
+post_title,commodity,descrip_1,descrip_2,quantity_1,quantity_2,sitc,end_use,,,,,,,,,,,,,,,,,,,
+Post with ACF fields,Test field,Text area test field,101,83,admin123@gmail.com,https://www.smackcoders.com/documentation/ultimate-csv-importer-pro/how-to-import-csv,admin123,,,,,,,,,,,,,,,,,,,
+Post with ACF fieldss,Test field,Text area test field,111,84,admin1234@gmail.com,https://www.smackcoders.com/documentation/ultimate-csv-importer-pro/how-to-import-csv,admin1234,,,,,,,,,,,,,,,,,,,

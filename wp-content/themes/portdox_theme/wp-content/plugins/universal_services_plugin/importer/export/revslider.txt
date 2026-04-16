@@ -1,0 +1,3 @@
+revslider/boxed.zip
+revslider/main.zip
+revslider/optional.zip
