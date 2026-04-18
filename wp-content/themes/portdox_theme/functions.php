@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'PORTDOX_THEME_VERSION', '1.0.2' );
+define( 'PORTDOX_THEME_VERSION', '1.0.3' );
 
 require_once get_template_directory() . '/inc/portdox-acf-theme-options.php';
 require_once get_template_directory() . '/inc/portdox-testimonials-carousel-one.php';
@@ -538,7 +538,7 @@ function portdox_theme_styles() {
 		'module-css/09-counter.css',
 		'module-css/10-error.css',
 		'module-css/11-faq.css',
-		'module-css/12-footer.css?v=12',
+		'module-css/12-footer.css',
 		'module-css/13-page-header.css',
 		'module-css/14-shop.css',
 		'module-css/15-video.css',
@@ -565,7 +565,7 @@ function portdox_theme_styles() {
 	wp_enqueue_style( 'portdox-swiper', $u . '/assets/css/swiper.min.css', array( $dep ), $ver );
 	$dep = 'portdox-swiper';
 
-	wp_enqueue_style( 'portdox-logistiq-style', $u . '/assets/css/style.css', array( $dep ), $ver . '-2'.time() );
+	wp_enqueue_style( 'portdox-logistiq-style', $u . '/assets/css/style.css', array( $dep ), $ver );
 	wp_enqueue_style( 'portdox-responsive', $u . '/assets/css/responsive.css', array( 'portdox-logistiq-style' ), $ver );
 }
 add_action( 'wp_enqueue_scripts', 'portdox_theme_styles' );
